@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=210&section=header&text=Riyansh%20Yadav&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Analyst%20%7C%20IT%20Student%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;Cybersecurity+%7C+OSINT+%7C+Networks+%7C+Web+Security;Building+secure+systems+%26+real-world+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=2800&pause=1000&color=7EE7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;OSINT+%7C+Network+Security+%7C+Web+Security;Always+learning%2C+building%2C+securing" alt="Typing SVG" />
 
   <br>
 
@@ -10,20 +10,34 @@
   <img src="https://img.shields.io/badge/B.Tech-IT-FFD700?style=for-the-badge&logo=graduationcap&logoColor=black" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C853?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-riyanshyadav.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
-
   <br>
-
   <img src="https://img.shields.io/badge/GitHub-riyanshyadav09-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-riyansh-yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building%20%7C%20Securing-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
+
+</div>
+
+<div align="center">
+
+  <a href="https://riyanshyadav.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=7EE7FF" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/riyanshyadav09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/riyansh-yadav-89a142331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
 
 ---
 
-## 🧭 Professional Summary
+## 🧠 About Me
 
 B.Tech IT student (2027) with hands-on interest in Cybersecurity — OSINT, network scanning, vulnerability assessment. Core language: Python (DSA in Python). Tools: Nmap, Wireshark, Burp Suite, Linux. Completed offline Cybersecurity internship at Infosys Maker Lab, AKTU University.
+
+> Curiosity leads to discovery. Security leads to responsibility.
 
 ---
 
@@ -148,7 +162,7 @@ MERN Stack
 ### B.Tech in Information Technology
 2023 – 2027
 
-Accurate Institute of Management and Technology (AIMT), Noida
+Accurate Institute of Management and Technology (AIMT), Noida  
 CGPA: 7.6 / 10
 
 ---
