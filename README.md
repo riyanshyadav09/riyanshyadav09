@@ -1,12 +1,15 @@
 ﻿<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;Building+secure+systems+%26+real+world+projects" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=200&section=header&text=Riyansh%20Yadav&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20IT%20Student%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;Building+secure+systems+%26+real-world+projects;Always+learning%2C+testing%2C+improving" alt="Typing SVG" />
 
   <br>
 
   <img src="https://img.shields.io/badge/Location-Greater+Noida%2C+UP-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-IT-FFD700?style=for-the-badge&logo=graduationcap&logoColor=black" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C853?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
 
   <br>
 
@@ -18,22 +21,24 @@
 
 ---
 
-## 🧭 About Me
+## 🧠 Who I Am
 
-I’m a B.Tech IT student (2027) with a strong interest in Cybersecurity, especially:
-- OSINT
-- Network scanning
+I’m a B.Tech IT student (2027) with a deep interest in Cybersecurity and digital defense. My focus areas include:
+
+- OSINT and reconnaissance
+- Network scanning and enumeration
 - Vulnerability assessment
 - Web application security
-- Ethical hacking fundamentals
+- Linux and ethical hacking fundamentals
+- Secure software and practical security research
 
-I enjoy learning how systems work, how threats surface, and how secure architecture can be built with practical tools and disciplined thinking.
+I enjoy learning how systems work, how flaws are discovered, and how resilient security architecture is built.
 
-> “Learning by understanding systems, securing by design.”
+> “Curiosity leads to discovery. Security leads to responsibility.”
 
 ---
 
-## 🛡️ Core Skills
+## 🛡️ Security & Tech Stack
 
 <div align="center">
 
@@ -57,72 +62,66 @@ I enjoy learning how systems work, how threats surface, and how secure architect
 
 </div>
 
-### Security Domains
-- Web Application Security
-- Vulnerability Assessment
+### Core Security Domains
+- Web application security
+- Vulnerability assessment
 - OWASP Top 10
-- Network Security
-- OSINT
-- Bug Bounty mindset
-- Linux Administration
-- DSA in Python
+- Network security
+- OSINT and recon
+- Bug bounty mindset
+- Linux administration
+- Python DSA and problem solving
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
 ### Infosys Maker Lab — AKTU University, Lucknow
 July 2026 | Offline Internship
 
 - 4-week offline internship organized with Infosys Maker Lab and AKTU University
-- Gained practical exposure to cybersecurity concepts and lab-based security learning
-- Developed a deeper understanding of applied security, networking, and project workflow
+- Hands-on exposure to practical cybersecurity tasks and experiments
+- Gained confidence in applied security concepts, networking, and project-based learning
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1) Malware Analysis & Spam Mail Alert System
-Python | Security / Automation
+Python | Security | Automation
 
-- Built an automated system to detect malware and flag spam/phishing emails
-- Applied OWASP Top 10 awareness and bug-bounty style recon mindset
+- Built an automated malware detection and spam/phishing alert system
+- Applied OWASP Top 10 awareness and a bug-bounty style security mindset
 
 [🔗 View Project](https://github.com/riyanshyadav09)
-
----
 
 ### 2) ATM Simulator System
-Web Development | JavaScript | MySQL
+JavaScript | MySQL | Web Development
 
-- Simulated secure ATM transactions including deposits, withdrawals, and balance checks
-- Implemented validation and access checks to improve transaction safety
+- Built a secure ATM simulator with deposit, withdrawal, and balance logic
+- Included validation and safety checks for better transaction handling
 
 [🔗 View Project](https://github.com/riyanshyadav09)
-
----
 
 ### 3) Smart Soil Irrigation System
 Arduino | C++ | IoT
 
-- Automated irrigation using soil moisture sensors for real-time watering control
-- Designed a practical automation project for precision agriculture
+- Automated irrigation using soil moisture sensors and real-time control
+- Designed an efficient smart agriculture prototype
 
 [🔗 View Project](https://github.com/riyanshyadav09)
-
----
 
 ### 4) E-Commerce Product Selling Platform
 MERN Stack
 
-- Developed a full-stack e-commerce platform with product listing, cart, and checkout flow
-- Built REST APIs and integrated frontend-backend architecture
+- Built a full-stack commerce platform with product listing, cart, and checkout flow
+- Integrated REST APIs and frontend-backend architecture for a complete product experience
 
 [🔗 View Project](https://github.com/riyanshyadav09)
 
 ---
 
-## 🏆 Certifications & Learning
+## 🏆 Learning & Certifications
 
 <div align="center">
 
@@ -146,11 +145,11 @@ MERN Stack
 Accurate Institute of Management and Technology (AIMT), Noida  
 2023 – 2027
 
-- CGPA: 7.6 / 10
+CGPA: 7.6 / 10
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -168,7 +167,7 @@ Accurate Institute of Management and Technology (AIMT), Noida
 
 ---
 
-## 🌐 Connect
+## 🔐 Connect
 
 - Portfolio: https://riyanshyadav.netlify.app/
 - GitHub: https://github.com/riyanshyadav09
@@ -176,15 +175,15 @@ Accurate Institute of Management and Technology (AIMT), Noida
 
 ---
 
-## 🔒 Current Focus
+## 🔥 Current Focus
 
-- Building cybersecurity-focused tools and projects
-- Strengthening Python, Linux, and networking fundamentals
-- Learning practical web security and vulnerability assessment
-- Developing a professional portfolio and high-quality GitHub presence
+- Building practical cybersecurity projects
+- Improving Python, Linux, and networking fundamentals
+- Learning web security, recon, and vulnerability analysis
+- Creating a strong portfolio-driven GitHub presence
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building%20%7C%20Securing-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning%20%7C%20Building%20%7C%20Securing-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
 </div>
