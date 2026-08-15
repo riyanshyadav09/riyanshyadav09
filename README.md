@@ -1,44 +1,33 @@
 ﻿<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=200&section=header&text=Riyansh%20Yadav&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20%7C%20IT%20Student%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=210&section=header&text=Riyansh%20Yadav&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Analyst%20%7C%20IT%20Student%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;Building+secure+systems+%26+real-world+projects;Always+learning%2C+testing%2C+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;Cybersecurity+%7C+OSINT+%7C+Networks+%7C+Web+Security;Building+secure+systems+%26+real-world+projects" alt="Typing SVG" />
 
   <br>
 
   <img src="https://img.shields.io/badge/Location-Greater+Noida%2C+UP-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/B.Tech-IT-FFD700?style=for-the-badge&logo=graduationcap&logoColor=black" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C853?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-riyanshyadav.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Portfolio-riyanshyadav.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-riyanshyadav09-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-riyansh-yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building%20%7C%20Securing-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
 
 </div>
 
 ---
 
-## 🧠 Who I Am
+## 🧭 Professional Summary
 
-I’m a B.Tech IT student (2027) with a deep interest in Cybersecurity and digital defense. My focus areas include:
-
-- OSINT and reconnaissance
-- Network scanning and enumeration
-- Vulnerability assessment
-- Web application security
-- Linux and ethical hacking fundamentals
-- Secure software and practical security research
-
-I enjoy learning how systems work, how flaws are discovered, and how resilient security architecture is built.
-
-> “Curiosity leads to discovery. Security leads to responsibility.”
+B.Tech IT student (2027) with hands-on interest in Cybersecurity — OSINT, network scanning, vulnerability assessment. Core language: Python (DSA in Python). Tools: Nmap, Wireshark, Burp Suite, Linux. Completed offline Cybersecurity internship at Infosys Maker Lab, AKTU University.
 
 ---
 
-## 🛡️ Security & Tech Stack
+## 🛡️ Technical Skills
 
 <div align="center">
 
@@ -48,11 +37,11 @@ I enjoy learning how systems work, how flaws are discovered, and how resilient s
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-2E6DFF?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -62,66 +51,81 @@ I enjoy learning how systems work, how flaws are discovered, and how resilient s
 
 </div>
 
-### Core Security Domains
-- Web application security
-- Vulnerability assessment
+### Security Tools
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- OSINT Frameworks
+
+### Security Domains
+- Web Application Security
+- Network Security
+- Vulnerability Assessment
 - OWASP Top 10
-- Network security
-- OSINT and recon
-- Bug bounty mindset
-- Linux administration
-- Python DSA and problem solving
+- Bug Bounty
+
+### Programming & Systems
+- Python (Core)
+- JavaScript
+- SQL
+- HTML
+- CSS
+- Linux Administration
+- Computer Networks
+- Operating Systems
+- DSA in Python
+- DBMS
+
+### Development Stack
+- Flask
+- REST APIs
+- MySQL
+- Git
+- GitHub
+- MERN Stack
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-### Infosys Maker Lab — AKTU University, Lucknow
-July 2026 | Offline Internship
+### Intern — Infosys Maker Lab
+July 2026
 
-- 4-week offline internship organized with Infosys Maker Lab and AKTU University
-- Hands-on exposure to practical cybersecurity tasks and experiments
-- Gained confidence in applied security concepts, networking, and project-based learning
+Centre for Advanced Studies, AKTU University, Lucknow (Offline)
+
+- 4-week offline internship at AKTU University, organized with Infosys Maker Lab.
+- Hands-on exposure projects & experiments
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 1) Malware Analysis & Spam Mail Alert System
-Python | Security | Automation
+### Malware Analysis & Spam Mail Alert System
+Python
 
-- Built an automated malware detection and spam/phishing alert system
-- Applied OWASP Top 10 awareness and a bug-bounty style security mindset
+- Built automated system to detect malware and flag spam/phishing emails.
+- Applied OWASP Top 10 and bug-bounty style recon for web vulnerabilities.
 
-[🔗 View Project](https://github.com/riyanshyadav09)
+### ATM Simulator System
+Web Development, JavaScript, MySQL
 
-### 2) ATM Simulator System
-JavaScript | MySQL | Web Development
+- College web-dev project simulating secure ATM transactions — deposits, withdrawals, balance tracking.
+- Implemented input validation and access checks for transaction safety.
 
-- Built a secure ATM simulator with deposit, withdrawal, and balance logic
-- Included validation and safety checks for better transaction handling
+### Smart Soil Irrigation System
+Arduino, C++, IoT Sensors, Robotics
 
-[🔗 View Project](https://github.com/riyanshyadav09)
+- Automated irrigation using soil moisture sensors for real-time watering control.
 
-### 3) Smart Soil Irrigation System
-Arduino | C++ | IoT
-
-- Automated irrigation using soil moisture sensors and real-time control
-- Designed an efficient smart agriculture prototype
-
-[🔗 View Project](https://github.com/riyanshyadav09)
-
-### 4) E-Commerce Product Selling Platform
+### E-Commerce Product Selling Platform
 MERN Stack
 
-- Built a full-stack commerce platform with product listing, cart, and checkout flow
-- Integrated REST APIs and frontend-backend architecture for a complete product experience
-
-[🔗 View Project](https://github.com/riyanshyadav09)
+- Full-stack e-commerce platform — product listing, cart, checkout, REST APIs.
 
 ---
 
-## 🏆 Learning & Certifications
+## 🏆 Certifications (In Progress)
 
 <div align="center">
 
@@ -132,20 +136,39 @@ MERN Stack
 
 </div>
 
-- Google Cybersecurity Professional Certificate — In Progress
-- TryHackMe Learning Paths — Ongoing
-- Hack The Box Academy — Ongoing
-- CEH — Planned
+- Google Cybersecurity Professional Certificate
+- TryHackMe Learning Paths
+- Hack The Box Academy
+- CEH (Certified Ethical Hacker) — Planned
 
 ---
 
 ## 🎓 Education
 
 ### B.Tech in Information Technology
-Accurate Institute of Management and Technology (AIMT), Noida  
 2023 – 2027
 
+Accurate Institute of Management and Technology (AIMT), Noida
 CGPA: 7.6 / 10
+
+---
+
+## 🔥 Core Competencies
+
+- Cybersecurity
+- Web App Security
+- Network Scanning
+- OSINT
+- Vulnerability Assessment
+- Python & DSA
+- Linux
+- MERN Stack
+- SQL/MySQL
+- Git
+
+### Languages
+- English (Fluent)
+- Hindi (Fluent)
 
 ---
 
@@ -167,7 +190,7 @@ CGPA: 7.6 / 10
 
 ---
 
-## 🔐 Connect
+## 🌐 Connect
 
 - Portfolio: https://riyanshyadav.netlify.app/
 - GitHub: https://github.com/riyanshyadav09
@@ -175,12 +198,13 @@ CGPA: 7.6 / 10
 
 ---
 
-## 🔥 Current Focus
+## 🔒 Current Focus
 
-- Building practical cybersecurity projects
-- Improving Python, Linux, and networking fundamentals
-- Learning web security, recon, and vulnerability analysis
-- Creating a strong portfolio-driven GitHub presence
+- Building secure, real-world cybersecurity projects
+- Improving Python and Linux fundamentals
+- Learning offensive and defensive security workflows
+- Strengthening web app security and network analysis skills
+- Creating a professional GitHub portfolio with high-quality repos
 
 ---
 
