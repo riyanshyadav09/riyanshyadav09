@@ -1,202 +1,126 @@
-﻿<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=210&section=header&text=Riyansh%20Yadav&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Analyst%20%7C%20IT%20Student%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=2800&pause=1000&color=7EE7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Riyansh+Yadav;Aspiring+Cybersecurity+Analyst;OSINT+%7C+Network+Security+%7C+Web+Security;Always+learning%2C+building%2C+securing" alt="Typing SVG" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Location-Greater+Noida%2C+UP-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Tech-IT-FFD700?style=for-the-badge&logo=graduationcap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C853?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portfolio-riyanshyadav.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/GitHub-riyanshyadav09-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-riyansh-yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%7C%20Building-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
-
-</div>
-
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7a5cff&height=210&section=header&text=Rampravesh%20Yadav&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=60" alt="Header Banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=2800&pause=1000&color=7EE7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Rampravesh+Yadav+(Riyansh);Cybersecurity+Analyst+%7C+Network+Recon+%7C+VAPT;Full-Stack+MERN+%26+Python+Security+Tooling;Open+for+Freelance+on+Upwork+%26+Fiverr" alt="Typing SVG" />
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/rampravesh-yadav-89a142331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0134426549a0a03429" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.fiverr.com/riyansh_yadav" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Order_Gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
   <a href="https://riyanshyadav.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=7EE7FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/riyanshyadav09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/riyansh-yadav-89a142331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Location-Greater_Noida%2C_UP-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-IT_(AIMT%2FAKTU)-FFD700?style=flat-square&logo=graduationcap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity_%26_Full--Stack-00C853?style=flat-square&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Hire-00FFAA?style=flat-square&logo=shield&logoColor=black" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-B.Tech IT student (2027) with hands-on interest in Cybersecurity — OSINT, network scanning, vulnerability assessment. Core language: Python (DSA in Python). Tools: Nmap, Wireshark, Burp Suite, Linux. Completed offline Cybersecurity internship at Infosys Maker Lab, AKTU University.
+Experienced **Cybersecurity Analyst & Full-Stack Developer** with hands-on expertise in **VAPT, Network Reconnaissance, Threat Simulation, and Enterprise Full-Stack Web Applications**.
+- 🎓 **Education:** B.Tech in Information Technology (2023–2027) at Accurate Institute of Management & Technology (AIMT), affiliated with AKTU.
+- 🏢 **Training & Experience:** Completed 4-week offline Cybersecurity & Security Engineering Training at **Infosys Maker Lab**, Centre for Advanced Studies (CAS), AKTU Lucknow.
+- 🛡️ **Core Focus:** Network Penetration Testing, OWASP Top 10 Auditing, SMTP/Phishing Defensive Simulations, SIEM/SOC Telemetry Dashboards, and High-Performance MERN Applications.
+- 💼 **Freelance Availability:** Available for client contracts, security audits, and full-stack web builds on **Upwork**, **Fiverr**, and direct consulting.
 
-> Curiosity leads to discovery. Security leads to responsibility.
+> *"Curiosity leads to discovery. Security leads to resilience."*
 
 ---
 
-## 🛡️ Technical Skills
+## 🚀 Featured Live & Production Projects
+
+### 1. 🛡️ Network Recon Sentinel & Port Scanner
+- **Tech Stack:** Python (Raw Sockets, Multi-threading), Node.js/Express, Nmap Engine, REST API
+- **Capabilities:**
+  - Automated TCP/UDP port scanning and live service detection.
+  - Multi-threaded reconnaissance with latency & banner grabbing.
+  - Interactive web console with dynamic security health scoring.
+- **Access:** [GitHub Repository](https://github.com/riyanshyadav09/networking-lab) | Live Console
+
+### 2. 🛒 Forever Full-Stack MERN E-Commerce Store & Admin CMS
+- **Tech Stack:** React 18, Vite, Node.js, Express, MongoDB Atlas, Stripe & Razorpay, Cloudinary CDN
+- **Capabilities:**
+  - Production-grade shopping experience with instant multi-filter search and cart drawers.
+  - Admin management CMS for real-time inventory, pricing, and order lifecycle tracking.
+  - Secure JWT authentication with role-based access control and bcrypt credential hashing.
+- **Access:** Live Deployment on Netlify/Vercel (Proprietary Code Secured)
+
+### 3. 🎣 Enterprise Phishing Awareness & Email Security Auditing Suite
+- **Tech Stack:** Python Flask, SMTP/TLS Protocol Engine, MIME Multi-part, SPF/DKIM/DMARC Security
+- **Capabilities:**
+  - Interactive email campaign builder for corporate defensive awareness drills.
+  - Verification of SPF records, DKIM signatures, and mail spoofing vulnerabilities.
+  - Detailed telemetry report for security awareness compliance.
+- **Access:** Educational & Security Research Tool
+
+### 4. 🛰️ Resilient Hybrid Network Telemetry & SOC Dashboard (RHCS)
+- **Tech Stack:** AngularJS, Chart.js, IoT Mesh Telemetry, WebSocket/REST, CSS3 High-Contrast Dark Shell
+- **Capabilities:**
+  - Real-time network traffic graphing, packet drop assessment, and node connectivity monitoring.
+  - Automated threat alert matrix (P1–P4 severity) and incident operator console.
+  - Mission-critical black-spot connectivity failover visualization.
+- **Access:** Enterprise SOC Showcase
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
+### Security & Penetration Testing
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-2E6DFF?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Metasploit-181717?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-E95420?style=for-the-badge&logo=security&logoColor=white" />
 
+### Development & Full-Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 </div>
 
-### Security Tools
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- OSINT Frameworks
+---
 
-### Security Domains
-- Web Application Security
-- Network Security
-- Vulnerability Assessment
-- OWASP Top 10
-- Bug Bounty
+## 📜 Certifications & Continuous Learning
 
-### Programming & Systems
-- Python (Core)
-- JavaScript
-- SQL
-- HTML
-- CSS
-- Linux Administration
-- Computer Networks
-- Operating Systems
-- DSA in Python
-- DBMS
-
-### Development Stack
-- Flask
-- REST APIs
-- MySQL
-- Git
-- GitHub
-- MERN Stack
+- 🛡️ **Google Cybersecurity Professional Certificate** (In Progress)
+- 🔴 **TryHackMe Learning Paths:** Pre-Security & Complete Beginner
+- 🔵 **Hack The Box Academy:** Linux Fundamentals & Web Security Basics
+- 🏅 **Certified Ethical Hacker (CEH):** Exam Preparation Underway
 
 ---
 
-## 💼 Internship Experience
-
-### Intern — Infosys Maker Lab
-July 2026
-
-Centre for Advanced Studies, AKTU University, Lucknow (Offline)
-
-- 4-week offline internship at AKTU University, organized with Infosys Maker Lab.
-- Hands-on exposure projects & experiments
-
----
-
-## 🚀 Key Projects
-
-### Malware Analysis & Spam Mail Alert System
-Python
-
-- Built automated system to detect malware and flag spam/phishing emails.
-- Applied OWASP Top 10 and bug-bounty style recon for web vulnerabilities.
-
-### ATM Simulator System
-Web Development, JavaScript, MySQL
-
-- College web-dev project simulating secure ATM transactions — deposits, withdrawals, balance tracking.
-- Implemented input validation and access checks for transaction safety.
-
-### Smart Soil Irrigation System
-Arduino, C++, IoT Sensors, Robotics
-
-- Automated irrigation using soil moisture sensors for real-time watering control.
-
-### E-Commerce Product Selling Platform
-MERN Stack
-
-- Full-stack e-commerce platform — product listing, cart, checkout, REST APIs.
-
----
-
-## 🏆 Certifications (In Progress)
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-Learning_Path-00A4EF?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Hack_The_Box-Academy-00D4FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/CEH-Planned-FFB000?style=for-the-badge&logo=security&logoColor=black" />
+<img src="https://github-readme-stats.vercel.app/api?username=riyanshyadav09&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyanshyadav09&theme=radical&hide_border=true" alt="GitHub Streak" height="175" />
 
-</div>
-
-- Google Cybersecurity Professional Certificate
-- TryHackMe Learning Paths
-- Hack The Box Academy
-- CEH (Certified Ethical Hacker) — Planned
-
----
-
-## 🎓 Education
-
-### B.Tech in Information Technology
-2023 – 2027
-
-Accurate Institute of Management and Technology (AIMT), Noida  
-CGPA: 7.6 / 10
-
----
-
-## 🔥 Core Competencies
-
-- Cybersecurity
-- Web App Security
-- Network Scanning
-- OSINT
-- Vulnerability Assessment
-- Python & DSA
-- Linux
-- MERN Stack
-- SQL/MySQL
-- Git
-
-### Languages
-- English (Fluent)
-- Hindi (Fluent)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riyanshyadav09&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyanshyadav09&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyanshyadav09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
@@ -204,24 +128,22 @@ CGPA: 7.6 / 10
 
 ---
 
-## 🌐 Connect
-
-- Portfolio: https://riyanshyadav.netlify.app/
-- GitHub: https://github.com/riyanshyadav09
-- LinkedIn: https://linkedin.com/in/riyansh-yadav-89a142331
-
----
-
-## 🔒 Current Focus
-
-- Building secure, real-world cybersecurity projects
-- Improving Python and Linux fundamentals
-- Learning offensive and defensive security workflows
-- Strengthening web app security and network analysis skills
-- Creating a professional GitHub portfolio with high-quality repos
-
----
+## 📬 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning%20%7C%20Building%20%7C%20Securing-00FFAA?style=for-the-badge&logo=shield&logoColor=black" />
+
+| Platform | Direct Profile Link |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/rampravesh-yadav-89a142331](https://www.linkedin.com/in/rampravesh-yadav-89a142331/) |
+| **Upwork** | [upwork.com/freelancers/~0134426549a0a03429](https://www.upwork.com/freelancers/~0134426549a0a03429) |
+| **Fiverr** | [fiverr.com/riyansh_yadav](https://www.fiverr.com/riyansh_yadav) |
+| **Portfolio** | [riyanshyadav.netlify.app](https://riyanshyadav.netlify.app/) |
+| **Telegram** | [@Riyufreelance](https://t.me/Riyufreelance) |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-100%25_Verified_Profile-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </div>
