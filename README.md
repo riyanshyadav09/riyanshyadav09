@@ -15,7 +15,7 @@
   <a href="https://www.fiverr.com/riyansh_yadav" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-Order_Gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
-  <a href="https://riyanshyadav.netlify.app/" target="_blank">
+  <a href="https://portfolio-react-drab-rho.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 
@@ -137,7 +137,7 @@ Experienced **Cybersecurity Analyst & Full-Stack Developer** with hands-on exper
 | **LinkedIn** | [linkedin.com/in/rampravesh-yadav-89a142331](https://www.linkedin.com/in/rampravesh-yadav-89a142331/) |
 | **Upwork** | [upwork.com/freelancers/~0134426549a0a03429](https://www.upwork.com/freelancers/~0134426549a0a03429) |
 | **Fiverr** | [fiverr.com/riyansh_yadav](https://www.fiverr.com/riyansh_yadav) |
-| **Portfolio** | [riyanshyadav.netlify.app](https://riyanshyadav.netlify.app/) |
+| **Portfolio** | [riyanshyadav.netlify.app](https://portfolio-react-drab-rho.vercel.app) |
 | **Telegram** | [@Riyufreelance](https://t.me/Riyufreelance) |
 
 </div>
